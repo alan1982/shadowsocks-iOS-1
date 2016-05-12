@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/ZXMultiFormatWriter.m \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/aztec/ZXAztecWriter.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/ZXWriter.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/ZXBarcodeFormat.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/common/ZXBitMatrix.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/oned/ZXCodaBarWriter.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/oned/ZXOneDimensionalCodeWriter.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/oned/ZXCode39Writer.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/oned/ZXCode128Writer.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/datamatrix/ZXDataMatrixWriter.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/oned/ZXEAN8Writer.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/oned/ZXUPCEANWriter.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/oned/ZXEAN13Writer.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/ZXErrors.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/oned/ZXITFWriter.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/ZXMultiFormatWriter.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/pdf417/ZXPDF417Writer.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/pdf417/encoder/ZXCompaction.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/qrcode/ZXQRCodeWriter.h \
+  /Users/ALEXTSUI/shadowsocks-iOS/zxing-objc/ZXingObjC/oned/ZXUPCAWriter.h
